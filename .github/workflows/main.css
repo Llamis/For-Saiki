@@ -1600,6 +1600,14 @@
   background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
   background-size: 100%;
 }
+:root .app-1q1i1E::after {
+  z-index: 0;
+  left: 50px;
+  bottom: 0;
+  width: 490px;
+  height: 40px;
+  background-size: 100%;
+}
 :root .app-2rEoOp::before {
   top: 80px;
   right: 116px;
